@@ -1255,6 +1255,9 @@ checksum = "a5996294f19bd3aae0453a862ad728f60e6600695733dd5df01da90c54363a3c"
 [[package]]
 name = "reserve"
 version = "0.1.0"
+dependencies = [
+ "sqlx",
+]
 
 [[package]]
 name = "ring"
@@ -1529,6 +1532,7 @@ dependencies = [
  "once_cell",
  "proc-macro2",
  "quote",
+ "serde_json",
  "sha2",
  "sqlx-core",
  "sqlx-rt",

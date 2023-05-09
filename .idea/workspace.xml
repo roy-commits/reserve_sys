@@ -13,7 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5a8b7c-5fc4-4628-8b28-3e87a84f865a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/abi/src/pb/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/abi/src/pb/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abi/build.rs" beforeDir="false" afterPath="$PROJECT_DIR$/abi/build.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abi/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/abi/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/reserve/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="037h6lm0" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PYAamdvqXEP95qQrhjdMmqQ5d8" />
   <component name="ProjectLevelVcsManager">
@@ -62,6 +68,11 @@
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "settings.editor.selected.configurable": "language.rust.rustfmt",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,11 +108,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683623709437</updated>
-      <workItem from="1683623714127" duration="3507000" />
+      <workItem from="1683623714127" duration="8470000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
