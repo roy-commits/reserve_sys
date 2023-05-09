@@ -13,12 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c5a8b7c-5fc4-4628-8b28-3e87a84f865a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/abi/src/pb/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfcs/0001-core-reservation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfcs/images/arch1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfcs/images/arch2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfcs/images/overlapping.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rfcs/template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abi/src/pb/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/abi/src/pb/mod.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683623709437</updated>
-      <workItem from="1683623714127" duration="2895000" />
+      <workItem from="1683623714127" duration="3507000" />
     </task>
     <servers />
   </component>
