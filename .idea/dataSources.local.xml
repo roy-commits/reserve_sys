@@ -15,7 +15,10 @@
               <node kind="schema" qname="@" />
             </node>
             <node kind="database" qname="reservation">
-              <node kind="schema" qname="rsvp" />
+              <node kind="schema">
+                <name qname="rsvp" />
+                <name qname="public" />
+              </node>
             </node>
           </node>
         </introspection-scope>
