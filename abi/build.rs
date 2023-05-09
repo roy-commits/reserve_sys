@@ -6,6 +6,6 @@ fn main() {
         .compile(&["proto/reservation.proto"], &["proto"])
         .unwrap();
     // add cargo fmt command
-    Command::new("cargo").arg(&["fmt"]).output().unwrap();
+    Command::new("cargo").args(&["fmt"]).output().unwrap();
     println!("cargo:rerun-if-changed=proto/reservation.proto");
 }
